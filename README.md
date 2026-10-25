@@ -52,11 +52,16 @@ Get the APK from the latest release on the [Releases](../../releases) page.
 
 Aussie School Quiz is free and always will be. If it helps your kids, you can support the developer here:
 
-☕ [Buy me a coffee (PayPal)](https://www.paypal.me/ToanNguyen189)
+☕ [Buy me a coffee](https://buymeacoffee.com/toannguyeninoz)
+
+Or send directly via PayPal: [paypal.me/ToanNguyen189](https://www.paypal.me/ToanNguyen189)
 
 Your support keeps the app free and funds more questions and subjects.
 
 ## Changelog
+
+### v1.1.2 (25 Oct 2026)
+- "Buy me a coffee" button now opens the Buy Me a Coffee page (buymeacoffee.com/toannguyeninoz)
 
 ### v1.1.1 (25 Oct 2026)
 - "Made by Toan Nguyen In Oz" branding on the home and result screens
