@@ -3,7 +3,7 @@
 A free offline quiz game for Australian school students, Years 1–12, built for Android TV / Google TV.
 
 ![School Quiz](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Google%20TV-green)
-![Questions](https://img.shields.io/badge/questions-2%2C000-blue)
+![Questions](https://img.shields.io/badge/questions-10%2C000-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## What is it?
@@ -13,7 +13,7 @@ Pick your year level, pick a subject, and play a round of quiz questions. Every 
 ## Features
 
 - **Years 1–12** in 5 bands: Years 1–2, 3–4, 5–6, 7–9, 10–12
-- **10 subjects, 200 questions each (2,000 total)**, each with an explanation
+- **10 subjects, 1,000 questions each (10,000 total)**, each with an explanation
   - Years 1–9: Mathematics, Science, English, HASS, Technology
   - Years 10–12: English, Mathematical Methods, Specialist Mathematics, Physics, Chemistry, Biology (SACE Stage 2 topics)
 - **Choose your round size:** 10, 20, 30, 50 questions, or All
@@ -46,6 +46,11 @@ Requires Android 5.0+ (Android TV / Google TV). The app appears as **School Quiz
 Get the APK from the latest release on the [Releases](../../releases) page.
 
 ## Changelog
+
+### v1.1.0 (25 Oct 2026)
+- 10,000 questions: 1,000 per subject (was 200)
+- Long answer text and long review rows are now trimmed with "…" instead of overflowing their tiles
+- Fixed the Music button overlapping the question card on the review detail screen
 
 ### v1.0.3 (25 Oct 2026)
 - On-screen Music On/Off button (top right, focus with ▲ then OK; MUTE key still works)
