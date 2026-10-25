@@ -60,6 +60,9 @@ Your support keeps the app free and funds more questions and subjects.
 
 ## Changelog
 
+### v1.1.4 (26 Oct 2026)
+- Fixed: background music kept playing after leaving the app with HOME — the watchdog restarted it because it did not know the app was in the background. Music now stays paused while the app is in the background and resumes when you return to it
+
 ### v1.1.3 (25 Oct 2026)
 - Fixed: the Music button could show Off while the music kept playing — the off state is now enforced (watchdog re-pauses within 2 seconds if the player ever restarts while muted)
 
