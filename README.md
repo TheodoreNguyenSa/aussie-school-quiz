@@ -18,6 +18,8 @@ Pick your year level, pick a subject, and play a round of quiz questions. Every 
 - **10 subjects, 1,000 questions each (10,000 total)**, each with an explanation
   - Years 1–9: Mathematics, Science, English, HASS, Technology
   - Years 10–12: English, Mathematical Methods, Specialist Mathematics, Physics, Chemistry, Biology (SACE Stage 2 topics)
+- **Find My Gaps (Mathematics & Science):** a short no-timer check that follows wrong answers back through the skills they depend on, pinpoints the exact skill to fix first, and shows a Gap Map with a "Learn it" lesson link and a focused practice round
+- **10 interactive lessons:** hands-on lessons that run fully offline, each in four steps — Predict → Explore → Try → Explain
 - **Choose your round size:** 10, 20, 30, 50 questions, or All
 - **Review answers:** after each round, see every question marked ✓ / ✗, open any question to see your answer, the correct answer and why
 - **Randomised every round:** question order and answer order are shuffled, so the correct answer never sits in a fixed spot
@@ -59,6 +61,14 @@ Or send directly via PayPal: [paypal.me/ToanNguyen189](https://www.paypal.me/Toa
 Your support keeps the app free and funds more questions and subjects.
 
 ## Changelog
+
+### v1.2.0 (6 Nov 2026)
+
+- New: **Find My Gaps** for Mathematics and Science — answer a few questions and the app traces wrong answers back to the root skill that needs work (built on a skill map of 24 Maths skills and 19 Science skills), shows a Gap Map, and offers a focused practice round on just that skill
+
+- New: **10 interactive lessons** that run fully offline (Predict → Explore → Try → Explain): Place Value, Fraction Bars, Fractions/Decimals/Percentages, Percentages of Amounts, Percentage Increase & Decrease, States of Matter, Forces & Friction, Inside a Cell, Seasons & Earth's Tilt, Energy Transfers
+
+- Mathematics and Science questions are now tagged to individual skills behind the scenes
 
 ### v1.1.4 (26 Oct 2026)
 - Fixed: background music kept playing after leaving the app with HOME — the watchdog restarted it because it did not know the app was in the background. Music now stays paused while the app is in the background and resumes when you return to it
