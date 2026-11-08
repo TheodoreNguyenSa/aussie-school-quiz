@@ -22,7 +22,7 @@ Pick your year level, pick a subject, and play a round of quiz questions. Every 
 - **Find My Gaps (Mathematics & Science):** a short no-timer check that follows wrong answers back through the skills they depend on, pinpoints the exact skill to fix first, and shows a Gap Map with a "Learn it" lesson link and a focused practice round
 - **10 interactive lessons:** hands-on lessons that run fully offline, each in four steps — Predict → Explore → Try → Explain
 - **Choose your round size:** 10, 20, 30, 50 questions, or All
-- **Generated Maths questions (Years 7–9):** 28 built-in generator functions create fresh questions every round — new numbers and contexts each time, so kids can't just memorise answers. Every generated question has a step-by-step solution, and its wrong options are built from real student mistakes; pick one and the app names the slip
+- **Generated questions in every subject (v1.4.0):** 204 built-in generator functions now create fresh questions in all 10 subjects and all year levels — Mathematics, Science, English, HASS, Technology, Mathematical Methods, Specialist Mathematics, Chemistry and Biology — every round and every Find My Gaps diagnostic. New numbers and contexts each time, so kids can't just memorise answers. Every generated question has a step-by-step solution, and its wrong options are built from real student mistakes; pick one and the app names the slip
 - **Review answers:** after each round, see every question marked ✓ / ✗, open any question to see your answer, the correct answer and why
 - **Randomised every round:** question order and answer order are shuffled, so the correct answer never sits in a fixed spot
 - **20 seconds per question**, +10 points per correct answer, best score saved per subject and round size
@@ -63,6 +63,11 @@ Or send directly via PayPal: [paypal.me/ToanNguyen189](https://www.paypal.me/Toa
 Your support keeps the app free and funds more questions and subjects.
 
 ## Changelog
+
+### v1.4.0 (9 Nov 2026)
+- Live question generation expands from Years 7-9 Maths to **every subject and every year level**: 204 generator functions in total (Maths all levels incl. Methods & Specialist, Science, English, HASS, Technology, Chemistry, Biology) — fresh questions in both practice rounds and Find My Gaps
+- Science generators carry skill tags, so Science diagnostics in Find My Gaps now include generated questions too
+- Every generated question keeps the same guarantees: step-by-step solution, and wrong options built from named student mistakes ("Slip: ...")
 
 ### v1.3.0 (9 Nov 2026)
 - Years 7-9 Mathematics questions are now generated live by 28 built-in generator functions: fresh questions every round and every Find My Gaps diagnostic, each with a step-by-step solution and wrong answers built from common mistakes — picking one names the slip (e.g. "Slip: Added the denominators")
