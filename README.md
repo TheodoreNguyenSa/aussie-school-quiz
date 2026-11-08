@@ -17,10 +17,12 @@ Pick your year level, pick a subject, and play a round of quiz questions. Every 
 - **Years 1–12** in 5 bands: Years 1–2, 3–4, 5–6, 7–9, 10–12
 - **10 subjects, 1,000 questions each (10,000 total)**, each with an explanation
   - Years 1–9: Mathematics, Science, English, HASS, Technology
+  - 
   - Years 10–12: English, Mathematical Methods, Specialist Mathematics, Physics, Chemistry, Biology (SACE Stage 2 topics)
 - **Find My Gaps (Mathematics & Science):** a short no-timer check that follows wrong answers back through the skills they depend on, pinpoints the exact skill to fix first, and shows a Gap Map with a "Learn it" lesson link and a focused practice round
 - **10 interactive lessons:** hands-on lessons that run fully offline, each in four steps — Predict → Explore → Try → Explain
 - **Choose your round size:** 10, 20, 30, 50 questions, or All
+- **Generated Maths questions (Years 7–9):** 28 built-in generator functions create fresh questions every round — new numbers and contexts each time, so kids can't just memorise answers. Every generated question has a step-by-step solution, and its wrong options are built from real student mistakes; pick one and the app names the slip
 - **Review answers:** after each round, see every question marked ✓ / ✗, open any question to see your answer, the correct answer and why
 - **Randomised every round:** question order and answer order are shuffled, so the correct answer never sits in a fixed spot
 - **20 seconds per question**, +10 points per correct answer, best score saved per subject and round size
@@ -62,7 +64,12 @@ Your support keeps the app free and funds more questions and subjects.
 
 ## Changelog
 
-### v1.2.0 (6 Nov 2026)
+### v1.3.0 (9 Nov 2026)
+- Years 7-9 Mathematics questions are now generated live by 28 built-in generator functions: fresh questions every round and every Find My Gaps diagnostic, each with a step-by-step solution and wrong answers built from common mistakes — picking one names the slip (e.g. "Slip: Added the denominators")
+- Find My Gaps map grows to 27 skills: new Integers, Algebraic Expressions, and Coordinates & Linear Graphs
+- Years 7-9 Maths pool is now 1,370 questions (250 written + 1,120 generated)
+
+  ### v1.2.0 (6 Nov 2026)
 
 - New: **Find My Gaps** for Mathematics and Science — answer a few questions and the app traces wrong answers back to the root skill that needs work (built on a skill map of 24 Maths skills and 19 Science skills), shows a Gap Map, and offers a focused practice round on just that skill
 
